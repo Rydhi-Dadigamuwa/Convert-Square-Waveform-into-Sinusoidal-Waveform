@@ -3,4 +3,4 @@ This project is a circuit design that converts a square waveform into a sinusoid
 <br/>
 <br/>
 
-### I have written a detailed blog post about this project on Medium. You can read it [here]([https://medium.com/your-article-link](https://medium.com/@rydhidadigamuwa/convert-square-waveform-into-sinusoidal-waveform-636cecaa8502).
+### I have written a detailed blog post about this project on Medium. You can read it [here](https://medium.com/@rydhidadigamuwa/convert-square-waveform-into-sinusoidal-waveform-636cecaa8502).
